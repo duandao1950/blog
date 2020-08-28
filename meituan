@@ -1,0 +1,46 @@
+
+
+设计模式在外卖营销业务中的实践
+https://tech.meituan.com/2020/03/19/design-pattern-practice-in-marketing.html
+
+领域驱动设计在互联网业务开发中的实践
+https://tech.meituan.com/2017/12/22/ddd-in-practice.html
+
+从ReentrantLock的实现看AQS的原理及应用
+https://tech.meituan.com/2019/12/05/aqs-theory-and-apply.html
+
+Java 动态调试技术原理及实践
+https://tech.meituan.com/2019/11/07/java-dynamic-debugging-technology.html
+
+降低软件复杂性一般原则和方法
+https://tech.meituan.com/2019/09/19/common-method-of-reduce-complexity.html
+
+字节码增强技术探索
+https://tech.meituan.com/2019/09/05/java-bytecode-enhancement.html
+
+全链路压测自动化实践
+https://tech.meituan.com/2019/02/14/full-link-pressure-test-automation.html
+
+研发团队资源成本优化实践
+https://tech.meituan.com/2019/02/21/rd-team-resource-cost-optimization-practice.html
+
+美团针对Redis Rehash机制的探索和实践
+https://tech.meituan.com/2018/07/27/redis-rehash-practice-optimization.html
+
+日志级别动态调整——小工具解决大问题
+https://tech.meituan.com/2017/02/17/change-log-level.html
+
+聊聊clean code
+https://tech.meituan.com/2017/01/19/clean-code.html
+
+常见性能优化策略的总结
+https://tech.meituan.com/2016/12/02/performance-tunning.html
+
+分布式系统互斥性与幂等性问题的分析与解决
+https://tech.meituan.com/2016/09/29/distributed-system-mutually-exclusive-idempotence-cerberus-gtis.html
+
+使用模板快速编写测试用例
+https://tech.meituan.com/2016/03/22/testcase-templete.html
+
+序列化和反序列化
+https://tech.meituan.com/2015/02/26/serialization-vs-deserialization.html
